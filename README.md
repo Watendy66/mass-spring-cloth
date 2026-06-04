@@ -7,8 +7,6 @@
 
 ## 📽️ 演示
 
-> 录制方法见文末「录制 GIF」。把 gif 放到 `docs/` 下并保持文件名即可在此显示。
-
 **三种积分方法对比**
 
 ![integrators](docs/integrators.gif)
